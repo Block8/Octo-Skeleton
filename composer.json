@@ -1,0 +1,20 @@
+{
+    "name": "block8/octo-skeleton",
+    "description": "Skeleton site for the Octo CMS",
+    "minimum-stability": "dev",
+
+    "authors": [
+        {
+            "name": "Dan Cryer",
+            "email": "dan.cryer@block8.co.uk"
+        }
+    ],
+
+    "repositories": [
+        { "type": "composer", "url": "http://packages.block8.net/" }
+    ],
+
+    "require": {
+        "block8/octo": "dev-master"
+    }
+}
